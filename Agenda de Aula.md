@@ -26,7 +26,7 @@
   - [🚀 Semana 14](#-semana-14)
   - [🎤 Semana 15 - Apresentação do Protótipo](#-semana-15)
   - [📌 Semana 16](#-semana-16)
-  - [🚨 Semana 17 — Avaliação 2](#-semana-17--avaliação-2)
+  - [🚨 Semana 17 — Avaliação 1](#-semana-17--avaliação-1)
   - [📌 Semana 18](#-semana-18)
   - [📌 Semana 19](#-semana-19)
   - [🏁 Semana 20 — Encerramento](#-semana-20--encerramento)
