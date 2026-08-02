@@ -119,7 +119,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ---
 
-## 🎤 Semana 9
+## 📌 Semana 9
 
 ### 📅 28/09 (Segunda)
 - Teste do Plano da Startup
