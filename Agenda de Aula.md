@@ -160,7 +160,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ---
 
-## 🚀 Semana 14
+## 📌 Semana 14
 
 ### 📅 02/11 (Segunda)
 - 🇧🇷 **Feriado Nacional — Finados**
