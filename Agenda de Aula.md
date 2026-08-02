@@ -220,6 +220,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 | 14/09 | 🚀 Trabalho 1 — Desenvolvimento |
 | 21/09 | 🎤 Pitch do Trabalho 1 |
 | 12/10 | 🇧🇷 Feriado — Nossa Senhora Aparecida |
+| 19/10 | 🇧🇷 Feriado — Aniversário de Pouso Alegre |
 | 02/11 | 🇧🇷 Feriado — Finados |
 | 09/11 | 🎤 Apresentação de Resultados |
 | 23/11 | 📝 **Avaliação 2** |
