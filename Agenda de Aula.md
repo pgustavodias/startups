@@ -219,7 +219,6 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 | 07/09 | 🇧🇷 Feriado — Independência do Brasil |
 | 14/09 | 🚀 Trabalho 1 — Desenvolvimento |
 | 21/09 | 🎤 Pitch do Trabalho 1 |
-| 28/09 | 🎤 Continuação dos Pitchs |
 | 12/10 | 🇧🇷 Feriado — Nossa Senhora Aparecida |
 | 02/11 | 🇧🇷 Feriado — Finados |
 | 09/11 | 🎤 Apresentação de Resultados |
