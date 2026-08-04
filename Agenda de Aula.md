@@ -181,10 +181,10 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ---
 
-## 🚨 Semana 17 — Avaliação 2
+## 🚨 Semana 17 — Avaliação 1
 
 ### 📅 23/11 (Segunda)
-- 📝 **Avaliação 2**
+- 📝 **Avaliação 1**
 
 ---
 
