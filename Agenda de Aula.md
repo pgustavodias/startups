@@ -223,7 +223,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 | 19/10 | 🇧🇷 Feriado — Aniversário de Pouso Alegre |
 | 02/11 | 🇧🇷 Feriado — Finados |
 | 09/11 | 🎤 Apresentação de Resultados |
-| 23/11 | 📝 **Avaliação 2** |
+| 23/11 | 📝 **Avaliação 1** |
 | 30/11 | 📋 Devolutiva da Avaliação |
 | 07/12 | 📝 **2ª Chamada / Avaliação Especial** |
 | 14/12 | 🎓 Encerramento da disciplina |
